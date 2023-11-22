@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/f0ru0yt18dt7xit8?svg=true)](https://ci.appveyor.com/project/Nikan152435/task-unit-testing)
